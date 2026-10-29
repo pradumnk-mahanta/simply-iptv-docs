@@ -11,6 +11,7 @@
 <p align="center">
   <a href="PRIVACY_POLICY.md">Privacy Policy</a> •
   <a href="TERMS_AND_CONDITION.md">Terms & Conditions</a> •
+  <a href="RELEASES.md">Releases & Changelog</a> •
   <a href="https://github.com/pradumnk-mahanta/simply-iptv-docs/issues">Issue Tracker</a>
 </p>
 
