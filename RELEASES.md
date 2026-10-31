@@ -14,7 +14,7 @@ All notable changes and releases for Simply IPTV are documented here. Simply IPT
 
 ## [0.0.4] - 2026-10-29
 
-Initial Working Build
+* Initial Working Build
 
 ---
 
