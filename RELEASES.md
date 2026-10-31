@@ -4,6 +4,13 @@ All notable changes and releases for Simply IPTV are documented here. Simply IPT
 
 ---
 
+## [0.0.6] - 2026-10-31
+
+## What's Changed
+* Optimized to Use Low Memory
+
+---
+
 ## [0.0.5] - 2026-10-31
 
 ## What's Changed
