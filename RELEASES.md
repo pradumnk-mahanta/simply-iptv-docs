@@ -4,6 +4,14 @@ All notable changes and releases for Simply IPTV are documented here. Simply IPT
 
 ---
 
+## [0.0.5] - 2026-10-31
+
+## What's Changed
+* Initial Working Build
+* Working Android TV Build
+
+---
+
 ## [0.0.4] - 2026-10-29
 
 Initial Working Build

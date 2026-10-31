@@ -19,7 +19,7 @@
 
 ## About Simply IPTV
 
-**Simply IPTV** is a high-performance IPTV player built from the ground up specifically for large screens, remotes, and Android TV / Google TV devices. Engineered with Google's modern Android development stack—including **Jetpack Compose for TV (Material 3)**, **AndroidX Media3 (ExoPlayer)**, and **Kotlin Coroutines**—it delivers an intuitive, broadcast-grade television experience.
+**Simply IPTV** is an open-source, high-performance IPTV player built from the ground up specifically for large screens, remotes, and Android TV / Google TV devices. Engineered with Google's modern Android development stack—including **Jetpack Compose for TV (Material 3)**, **AndroidX Media3 (ExoPlayer)**, and **Kotlin Coroutines**—it delivers an intuitive, broadcast-grade television experience.
 
 ---
 
