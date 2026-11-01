@@ -4,6 +4,13 @@ All notable changes and releases for Simply IPTV are documented here. Simply IPT
 
 ---
 
+## [0.0.7] - 2026-11-01
+
+## What's Changed
+* Updated Parsing of Channel Data
+
+---
+
 ## [0.0.6] - 2026-10-31
 
 ## What's Changed
