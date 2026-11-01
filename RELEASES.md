@@ -4,6 +4,15 @@ All notable changes and releases for Simply IPTV are documented here. Simply IPT
 
 ---
 
+## [0.0.8] - 2026-11-01
+
+## What's Changed
+* Updated Playback Error Handling
+* Easy Access for Favourite Buttons
+* Channel Selection before Play
+
+---
+
 ## [0.0.7] - 2026-11-01
 
 ## What's Changed
