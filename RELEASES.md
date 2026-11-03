@@ -4,6 +4,12 @@ All notable changes and releases for Simply IPTV are documented here. Simply IPT
 
 ---
 
+## [0.1.0] - 2026-11-03
+
+* IPTV Guide Integration & UI Improvements
+
+---
+
 ## [0.0.9] - 2026-11-02
 
 * Updated Billing Flow and Sub Handling
