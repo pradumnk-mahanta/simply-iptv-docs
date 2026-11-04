@@ -4,6 +4,12 @@ All notable changes and releases for Simply IPTV are documented here. Simply IPT
 
 ---
 
+## [0.1.1] - 2026-11-04
+
+* Fixed App Crash on Startup
+
+---
+
 ## [0.1.0] - 2026-11-03
 
 * IPTV Guide Integration & UI Improvements
